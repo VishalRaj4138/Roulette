@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Roulette</string>
+    <string name="contact_us"><u>Contact Us</u></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Timer">
+
+        <item>Choose Slots</item>
+        <item>Slot 1</item>
+        <item>Slot 2</item>
+        <item>Slot 3</item>
+        <item>Slot 4</item>
+        <item>Slot 5</item>
+        <item>Slot 6</item>
+
+    </string-array>
+
+</resources>
